@@ -22,6 +22,7 @@
 		<Item Name="src" Type="Folder" URL="../src">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="main(komplett).vi" Type="VI" URL="../main(komplett).vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="testDialog.vi" Type="VI" URL="../testDialog.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
